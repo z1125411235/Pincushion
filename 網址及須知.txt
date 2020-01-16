@@ -1,0 +1,8 @@
+版本:Unity 5.6.6f2 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5b6676cfd7f10a201ffb874c?fbclid=IwAR3eREj__Fy4gXtduitGzEFLXJchT0yeANRIbL8dPAh6FfKezvKPjU8tKYU
+
+官方Github網址__https://github.com/keijiro/Pincushion
+
+本人Github網址__https://github.com/z1125411235/Pincushion
+
